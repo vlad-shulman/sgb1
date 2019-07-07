@@ -1,0 +1,11 @@
+{
+"companyName": "fika.company",
+"productName": "fika.product",
+"dataUrl": "Unity Build Games.data.unityweb",
+"asmCodeUrl": "Unity Build Games.asm.code.unityweb",
+"asmMemoryUrl": "Unity Build Games.asm.memory.unityweb",
+"asmFrameworkUrl": "Unity Build Games.asm.framework.unityweb",
+"TOTAL_MEMORY": 536870912,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
